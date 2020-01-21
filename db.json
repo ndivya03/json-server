@@ -39,18 +39,18 @@
  
   "savedProducts": [
     {
-        "id" : 3,  
-        "name": "Tata Salt, 1kg",
-        "description": "Vacuum evaporated iodised salt,Lodine helps in mental development of children and prevents iodine deficiency",
-        "price": 40,
-        "imgUrl": "salt.jpg"
+        "id" : 5,  
+        "name": "MTR 3 Minute Breakfast Magic Masala Upma Pouch, 60g",
+        "description": "3 minute breakfast, Just add hot water",
+        "price": 20,
+        "imgUrl": "mtr.jpg"
     },
     {
-        "id" : 4,  
-        "name": "Fortune Kachi Ghani Pure Mustard Oil, 1L (Pet Bottle)",
-        "description": "Made from finest mustard seeds.",
-        "price": 90,
-        "imgUrl": "oil.jpg"
+        "id" : 6,  
+        "name": "Kellogg's Muesli Fruit Magic, 500g",
+        "description": "Kellogg's muesli fruit magic taste explosion.",
+        "price": 175,
+        "imgUrl": "chocos.jpg"
     }
   ]  
     
