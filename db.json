@@ -1,5 +1,5 @@
 {
-"cartProducts" = [
+"cartProducts": [
     {
       "id" : 1,  
       "name": "Maggi 2 min Masala Noodles, 12 Singles, 840g",
@@ -10,14 +10,14 @@
     {
        "id" : 2,  
         "name": "Nong Shim Shin Ramyun Noodle So",
-        description: "Shin Ramyun Noodle,Good in taste,5 Pack inside the packet",
+        "description": "Shin Ramyun Noodle,Good in taste,5 Pack inside the packet",
         "price": 440,
         "imgUrl": "ramyun.jpg"
     },
     {
         "id" : 3,  
         "name": "Tata Salt, 1kg",
-        description: "Vacuum evaporated iodised salt,Lodine helps in mental development of children and prevents iodine deficiency",
+        "description": "Vacuum evaporated iodised salt,Lodine helps in mental development of children and prevents iodine deficiency",
         "price": 40,
         "imgUrl": "salt.jpg"
     },
