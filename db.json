@@ -36,4 +36,22 @@
         "imgUrl": "daal.jpg"
     }
   ]
+ 
+  "savedProducts": [
+    {
+        "id" : 3,  
+        "name": "Tata Salt, 1kg",
+        "description": "Vacuum evaporated iodised salt,Lodine helps in mental development of children and prevents iodine deficiency",
+        "price": 40,
+        "imgUrl": "salt.jpg"
+    },
+    {
+        "id" : 4,  
+        "name": "Fortune Kachi Ghani Pure Mustard Oil, 1L (Pet Bottle)",
+        "description": "Made from finest mustard seeds.",
+        "price": 90,
+        "imgUrl": "oil.jpg"
+    }
+  ]  
+    
  } 
